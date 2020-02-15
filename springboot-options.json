@@ -1,0 +1,10 @@
+{
+"basePackage":"io.swagger",
+"configPackage":"io.swagger.config",
+"parentGroupId":"org.springframework.boot",
+"parentArtifactId":"spring-boot-starter-parent",
+"parentVersion":"2.2.4.RELEASE",
+"serverPort":9230,
+"hateoas":true,
+"delegatePattern":true
+}
